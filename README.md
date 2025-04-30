@@ -2,6 +2,9 @@
 
 O repositório contém uma aplicação escrita em C#, a qual utiliza o padrão de projeto Adapter para facilitar a obtenção de informações de pessoas, possibilitando que uma nova fonte de leitura seja um arquivo .csv. Por fim, o conteúdo da lista obtida é exibido por meio do console em execução.
 
+**Nome**: Kauan Muriel Rossi da Silva
+**RA**: 22014501-2
+
 **Observação**: o repositório foi criado para a resolução da atividade avaliativa da disciplina de "Tópicos de Arquitetura de Software".
 
 ## Resolução
